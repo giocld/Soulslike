@@ -1,6 +1,8 @@
 # RUP Soulslike Game(Low-poly soulslike game)
 **Built with C# and Unity**  
 ---
+**!! kyriws gia ta docs kai gia ena backup einai, xrhsimopoihste to internal vc tou unity !!**
+---
 **START:** A village where the people are cursed
 ### Main Quest
 Kill the boss in the castle to free the people from the curse
